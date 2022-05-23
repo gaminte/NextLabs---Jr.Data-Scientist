@@ -11,8 +11,9 @@
 
    **To Run locally**
 
-    Download the necessary files and prerequsites and run this command ``streamlit run Part1-Question2.py`` in command prompt in the root directory.
-    The app screen appears as below in the default browser
+    Download the necessary files and prerequsites and run this command 
+  ``streamlit run Part1-Question2.py`` 
+    in command prompt in the root directory. The app screen appears as below in the default browser
 
 
 
@@ -21,7 +22,8 @@
 
    **Cloud Deploy**
 
-     The app is also deployed using streamlit share cloud and the [live link](https://share.streamlit.io/gaminte/streamlit-app-deploy/main/data.py).
+     The app is also deployed using streamlit share cloud and the 
+   [live link](https://share.streamlit.io/gaminte/streamlit-app-deploy/main/data.py).
      To filter the reviews upload a CSV file with the instructions given on the app screen.
      
      

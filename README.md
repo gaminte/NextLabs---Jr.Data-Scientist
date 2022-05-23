@@ -1,6 +1,6 @@
 # App Deployment
 
-    ## Getting Started
+   **Getting Started**
 
     These are the prerequsites for deploying the app also mentioned in requirments.txt.
     - pandas
@@ -9,7 +9,7 @@
     - streamlit
     - tensorflow-cpu==2.8.0
 
-    ## To Run locally
+   **To Run locally**
 
     Download the necessary files and prerequsites and run this command `streamlit run Part1-Question2.py` in command prompt in the root directory.
     The app screen appears as below in the default browser
@@ -19,16 +19,18 @@
               ![Screenshot (71)](https://user-images.githubusercontent.com/21020999/169807913-0bbad9c4-be92-42d9-9184-8c3ece67e198.png)
 
 
-     ## Cloud Deploy
+   **Cloud Deploy**
 
      The app is also deployed using streamlit share cloud and the link is https://share.streamlit.io/gaminte/streamlit-app-deploy/main/data.py
      
      
  
-### Formally, a vector space V' is a subspace of a vector space V if
-### - V' is a vector space
-### - every element of V′ is also an element of V.
-### Note that ordered pairs of real numbers (a,b) a,b∈R form a vector space V. Which of the following is a subspace of V?
+ 
+
+**Formally, a vector space V' is a subspace of a vector space V if**
+   **- V' is a vector space**
+   **- every element of V′ is also an element of V.**
+**Note that ordered pairs of real numbers (a,b) a,b∈R form a vector space V. Which of the following is a subspace of V?**
 
   The answer is [The set of pairs (a, b) for all real a ≥ b ]
 

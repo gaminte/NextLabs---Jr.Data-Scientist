@@ -21,7 +21,7 @@
 
    **Cloud Deploy**
 
-     The app is also deployed using streamlit share cloud and the link is https://share.streamlit.io/gaminte/streamlit-app-deploy/main/data.py.
+     The app is also deployed using streamlit share cloud and the [live link](https://share.streamlit.io/gaminte/streamlit-app-deploy/main/data.py).
      To filter the reviews upload a CSV file with the instructions given on the app screen.
      
      

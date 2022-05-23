@@ -11,7 +11,7 @@
 
    **To Run locally**
 
-    Download the necessary files and prerequsites and run this command `streamlit run Part1-Question2.py` in command prompt in the root directory.
+    Download the necessary files and prerequsites and run this command ``streamlit run Part1-Question2.py`` in command prompt in the root directory.
     The app screen appears as below in the default browser
 
 

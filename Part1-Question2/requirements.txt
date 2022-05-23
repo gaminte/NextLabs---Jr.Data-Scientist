@@ -1,0 +1,5 @@
+pandas
+gunicorn
+transformers
+streamlit
+tensorflow-cpu==2.8.0

@@ -23,7 +23,7 @@
    **Cloud Deploy**
 
      The app is also deployed using streamlit share cloud and to filter the reviews upload a CSV file with the instructions given on the app screen.
-   [deploy link](https://share.streamlit.io/gaminte/streamlit-app-deploy/main/data.py).
+   [Deploy link](https://share.streamlit.io/gaminte/streamlit-app-deploy/main/data.py).
     
      
      
